@@ -10,4 +10,8 @@ alias serve='ruby -run -e httpd . -p 8000'  # Or python -m SimpleHTTPServer :)
 alias gpom="git push origin master"
 alias jn="jupyter notebook"
 alias jl="jupyter lab"
+alias golist="/Users/ph/code/phdenain/olist"
+
+#google cloud keys
+export GOOGLE_APPLICATION_CREDENTIALS="/Users/ph/WagonBootcamp-11a8b550b881.json"
 
